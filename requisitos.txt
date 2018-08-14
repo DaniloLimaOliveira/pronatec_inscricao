@@ -1,0 +1,4 @@
+Criação do projeto e arquitetura
+Tela de login e Cadastro de usuários
+Realizar inscrição
+Administrar inscrições
